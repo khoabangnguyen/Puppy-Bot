@@ -1,4 +1,4 @@
-# Puppy-Bot
+# Twitter-Bot
 Scrapes and uploads dog pictures
 
 get-puppy-pics
